@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SwapMouse")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32b719183f2663d668e85fdd6f7e09a87dfd2174")]
 [assembly: System.Reflection.AssemblyProductAttribute("SwapMouse")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SwapMouse")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
