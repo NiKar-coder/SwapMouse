@@ -1,0 +1,14 @@
+E:\CSProjects\SwapMouse\bin\Debug\net9.0\SwapMouse.exe
+E:\CSProjects\SwapMouse\bin\Debug\net9.0\SwapMouse.deps.json
+E:\CSProjects\SwapMouse\bin\Debug\net9.0\SwapMouse.runtimeconfig.json
+E:\CSProjects\SwapMouse\bin\Debug\net9.0\SwapMouse.dll
+E:\CSProjects\SwapMouse\bin\Debug\net9.0\SwapMouse.pdb
+E:\CSProjects\SwapMouse\obj\Debug\net9.0\SwapMouse.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSProjects\SwapMouse\obj\Debug\net9.0\SwapMouse.AssemblyInfoInputs.cache
+E:\CSProjects\SwapMouse\obj\Debug\net9.0\SwapMouse.AssemblyInfo.cs
+E:\CSProjects\SwapMouse\obj\Debug\net9.0\SwapMouse.csproj.CoreCompileInputs.cache
+E:\CSProjects\SwapMouse\obj\Debug\net9.0\SwapMouse.dll
+E:\CSProjects\SwapMouse\obj\Debug\net9.0\refint\SwapMouse.dll
+E:\CSProjects\SwapMouse\obj\Debug\net9.0\SwapMouse.pdb
+E:\CSProjects\SwapMouse\obj\Debug\net9.0\SwapMouse.genruntimeconfig.cache
+E:\CSProjects\SwapMouse\obj\Debug\net9.0\ref\SwapMouse.dll
